@@ -1,0 +1,11 @@
+C:\Users\leduc\source\repos\buoi003\buoi003\bin\Debug\buoi003.exe.config
+C:\Users\leduc\source\repos\buoi003\buoi003\bin\Debug\buoi003.exe
+C:\Users\leduc\source\repos\buoi003\buoi003\bin\Debug\buoi003.pdb
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.csproj.AssemblyReference.cache
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.Form1.resources
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.Properties.Resources.resources
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.csproj.GenerateResource.cache
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.csproj.CoreCompileInputs.cache
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.exe
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.pdb
+C:\Users\leduc\source\repos\buoi003\buoi003\obj\Debug\buoi003.FormHocList.resources
