@@ -1,0 +1,11 @@
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\bin\Debug\BaiTapBuoi04.exe.config
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\bin\Debug\BaiTapBuoi04.exe
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\bin\Debug\BaiTapBuoi04.pdb
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.csproj.AssemblyReference.cache
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.ListView.resources
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.Properties.Resources.resources
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.csproj.GenerateResource.cache
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.csproj.CoreCompileInputs.cache
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.exe
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.pdb
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\BaiTapBuoi04\BaiTapBuoi04\obj\Debug\BaiTapBuoi04.NhanVienForm.resources
