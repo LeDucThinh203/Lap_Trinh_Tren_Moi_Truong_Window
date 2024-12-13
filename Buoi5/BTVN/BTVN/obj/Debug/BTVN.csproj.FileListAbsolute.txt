@@ -1,0 +1,10 @@
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\bin\Debug\BTVN.exe.config
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\bin\Debug\BTVN.exe
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\bin\Debug\BTVN.pdb
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.csproj.AssemblyReference.cache
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.Form1.resources
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.exe
+E:\NamHoc_2023-2024\Lap_Trinh_Tren_Moi_Truong_Window\Buoi_05\BTVN\BTVN\obj\Debug\BTVN.pdb
